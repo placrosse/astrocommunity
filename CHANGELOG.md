@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.1.1](https://github.com/AstroNvim/astrocommunity/compare/v5.1.0...v5.1.1) (2023-12-20)
+
+
+### Performance Improvements
+
+* **python:** Lazy load venv-selector on command ([#686](https://github.com/AstroNvim/astrocommunity/issues/686)) ([31c22b5](https://github.com/AstroNvim/astrocommunity/commit/31c22b5a34cbb02cd0dd7420b233c759214f0ea0))
+
 ## [5.1.0](https://github.com/AstroNvim/astrocommunity/compare/v5.0.0...v5.1.0) (2023-12-15)
 
 
