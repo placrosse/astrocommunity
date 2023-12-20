@@ -1,1 +1,1 @@
-return { "kvrohit/mellow.nvim" }
+return { "mellow-theme/mellow.nvim" }
